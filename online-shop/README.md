@@ -1,13 +1,12 @@
 # Online Shop
 
-<img width="898" alt="Screen Shot 2022-04-24 at 5 46 19 PM" src="https://user-images.githubusercontent.com/60435025/114864206-87361300-9e12-11eb-92ca-5118cb76d7e1.png">
-<img width="898" alt="Screen Shot 2022-05-24 at 5 46 57 PM" src="https://user-images.githubusercontent.com/60435025/114864254-961cc580-9e12-11eb-8f18-518adbd52172.png">
-<img width="1440" alt="Screen Shot 2022-05-24 at 5 47 23 PM" src="https://user-images.githubusercontent.com/60435025/114864476-daa86100-9e12-11eb-841f-fe9d1973bb08.png">
-<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 11 PM" src="https://user-images.githubusercontent.com/60435025/114864496-e09e4200-9e12-11eb-823e-408bdb792b0d.png">
-<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 11 PM" src="https://user-images.githubusercontent.com/60435025/114864528-e98f1380-9e12-11eb-91c8-43cd09be23f0.png">
-<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 23 PM" src="https://user-images.githubusercontent.com/60435025/114864532-eac04080-9e12-11eb-8e87-576adcd2fbd1.png">
-<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 28 PM" src="https://user-images.githubusercontent.com/60435025/114864534-eb58d700-9e12-11eb-828f-8c8e6017334b.png">
-<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 37 PM" src="https://user-images.githubusercontent.com/60435025/114864536-ebf16d80-9e12-11eb-9582-19907723ba53.png">
+<img width="898" alt="Screen Shot 2022-04-24 at 5 46 19 PM" src="https://user-images.githubusercontent.com/78977590/170252884-ec1c1deb-b422-4989-916b-36d4088fe9cb.png">
+<img width="898" alt="Screen Shot 2022-05-24 at 5 46 57 PM" src="https://user-images.githubusercontent.com/78977590/170253165-9c11824f-4349-4c16-a7d1-b84c3581ed7f.png">
+<img width="1440" alt="Screen Shot 2022-05-24 at 5 47 23 PM" src="https://user-images.githubusercontent.com/78977590/170253257-df899fef-ce3a-4af5-ab69-f8ced75e5acc.png">
+<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 11 PM" src="https://user-images.githubusercontent.com/78977590/170253365-543f818b-3d6b-4f04-8115-2706abc6bbc1.png">
+<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 11 PM" src="https://user-images.githubusercontent.com/78977590/170253557-405f5d4c-4e25-455e-8a4c-010c7b332316.png">
+<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 23 PM" src="https://user-images.githubusercontent.com/78977590/170253692-4296ec56-9f4f-4750-81a1-6acd40699ec6.png">
+<img width="1440" alt="Screen Shot 2022-05-24 at 5 48 28 PM" src="https://user-images.githubusercontent.com/78977590/170253799-acaf414b-de3d-4708-b2a8-a1e46e605547.png">
 
 ## API Description
 
