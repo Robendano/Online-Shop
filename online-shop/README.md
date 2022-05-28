@@ -29,7 +29,7 @@ YOUTUBE LINK - https://youtu.be/hS7tV30kLjU
 * Spring
 * Rest API
 * Swagger
- tutorial - https://www.youtube.com/watch?v=971sG9wInBs&t=2276s
+* tutorial - https://www.youtube.com/watch?v=971sG9wInBs&t=2276s
 
 ## Notes
 
