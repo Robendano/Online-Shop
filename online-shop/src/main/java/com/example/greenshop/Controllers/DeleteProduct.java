@@ -7,8 +7,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
-@Controller
+@EnableSwagger2
+@RestController
 public class DeleteProduct {
 
     @Autowired
