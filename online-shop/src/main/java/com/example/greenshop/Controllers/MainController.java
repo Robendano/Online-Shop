@@ -10,7 +10,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 
 @EnableSwagger2
-@Controller
+@RestController
 public class MainController {
 
     @Autowired
