@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @EnableSwagger2
-@Controller
+@RestController
 public class WomenProductController {
 
     @Autowired
