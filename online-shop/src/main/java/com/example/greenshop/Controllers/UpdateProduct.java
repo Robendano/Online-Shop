@@ -12,8 +12,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.ArrayList;
 import java.util.Optional;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
-@Controller
+@EnableSwagger2
+@RestController
 public class UpdateProduct {
 
     @Autowired
